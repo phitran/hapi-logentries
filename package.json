@@ -21,8 +21,8 @@
   ],
   "dependencies": {
     "lout": "6.1.0",
-    "hoek": "2.3.0",
-    "bunyan": "^0.23.1",
+    "hoek": "2.11.0",
+    "bunyan": "^1.2.3",
     "bunyan-logentries": "^0.1.0"
   },
   "devDependencies": {
@@ -36,11 +36,11 @@
     "gulp-load-plugins": "^0.5.1",
     "gulp-plumber": "^0.6.2",
     "gulp-lab": "0.0.7",
-    "hapi": "6.x.x",
+    "hapi": "^8.1.0",
     "lab": "3.x.x"
   },
   "peerDependencies": {
-    "hapi": ">=2.x.x"
+    "hapi": "^8.1.0"
   },
   "engines": {
     "node": ">=0.10.22"
